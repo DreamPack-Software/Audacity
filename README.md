@@ -1,4 +1,4 @@
-# 🎙️ Audacity
+# 🎙️ Audacity - Free & Open-Source Audio Changer!
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/dacf8bde-145c-4763-8b4e-d7ea88ad95f1" />
 
 Audacity is a free, open-source audio editing software used for recording, editing, and processing sound. It’s widely used for podcasts, voiceovers, music production, and general audio cleanup.
